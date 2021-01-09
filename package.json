@@ -9,7 +9,7 @@
     "dev": "nodemon server.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "Ajeet singh thakur",
   "license": "ISC",
   "devDependencies": {
     "chai": "^4.2.0",
